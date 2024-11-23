@@ -5,7 +5,7 @@ PYTHON
 
 
 
-### [1. Simple gui calculator](https://github.com/Ujjwal1616/-simple-gui-calculator)
+### [1. Simple gui calculator]( https://ujjwal1616.github.io/-simple-gui-calculator/)
 
 A GUI Calculator is a user-friendly application with a graphical interface for performing basic arithmetic operations (addition, subtraction, multiplication, division). Built using Python libraries like tkinter or PyQt, it features buttons for digits, operations, and clear/reset functions. It displays input and results in a text box, mimicking a physical calculator.
 
