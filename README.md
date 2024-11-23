@@ -18,7 +18,7 @@ A To do list application is a user-friendly application with a graphical interfa
 Basic data analysis using numpy and pandas is a project that takes a csv file from user converts its data into histogram and generates mean median mode of the  data . This project helps to understand basis data of a company .
 
 
-### [4 . BASIC GAME Tkinter- Tic-Tav-Toe-Game](https://github.com/Ujjwal1616/Basic-game-tkinter)
+### [4 . BASIC GAME Tkinter- Tic-Tac-Toe-Game](https://github.com/Ujjwal1616/Basic-game-tkinter)
 
 Tic-Tac-Toe is a two-player game played on a 3x3 grid. Players take turns marking empty cells with "X" or "O." The goal is to get three of your marks in a row (horizontally, vertically, or diagonally). The game ends with a win, draw, or when all spaces are filled. Optimal play often results in a draw.
 
